@@ -1,0 +1,21 @@
+{
+    "name": "alyssagarden",
+    "displayName": "Alyssa Garden",
+    "description": "flower",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "alyssa garden",
+                "uiTheme": "vs-dark",
+                "path": "./themes/alyssa garden-color-theme.json"
+            }
+        ]
+    }
+}
