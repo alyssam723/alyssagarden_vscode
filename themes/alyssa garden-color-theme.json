@@ -3,9 +3,10 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#15141566",
-		"editor.foreground": "#15141566", //background of code
+		"editor.foreground": "#a0c3f7",//ex. test.reference file
 		"activityBarBadge.background": "#a0c3f7",
 		"sideBarTitle.foreground": "#a0c3f7"
+		
 	},
 	
 	"tokenColors": [
@@ -576,7 +577,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#ffffff"
 			}
 		},
 		{
